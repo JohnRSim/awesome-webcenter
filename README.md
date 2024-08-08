@@ -34,8 +34,8 @@ A curated list of awesome things related to Oracle WebCenter
 - [WCC Downloads](https://www.oracle.com/uk/middleware/technologies/webcenter-content-download.html)
 - [Critical Patch Updates](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=380143690838522&id=2806740.2&_afrWindowMode=0&_adf.ctrl-state=17rskpx345_4)
 
-### Samples
-Coming soon... 
+### Components
+- [HowToComponents11g Tutorials](https://github.com/JohnRSim/awesome-webcenter/tree/main/components/HowToComponents-11g)
 
 # Video
 
