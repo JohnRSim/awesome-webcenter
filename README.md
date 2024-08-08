@@ -21,10 +21,14 @@ A curated list of awesome things related to Oracle WebCenter
 - [GitHub](#github)
 
 # Get Started
+- [WCC Overview](https://www.oracle.com/uk/content-management/webcenter-content/)
 
 # Resources
 
 ### Official Resources
+- [Release Notes](https://docs.oracle.com/en/cloud/paas/webcenter-content/webcenter-content-marketplace/)
+- [WCC REST API](https://docs.oracle.com/en/cloud/paas/webcenter-content/webcenter-content-api/index.html)
+- 
 
 ### Samples
 
@@ -34,7 +38,7 @@ A curated list of awesome things related to Oracle WebCenter
 ### Video Channels
  - [Updates](https://asktom.oracle.com/) Search for WebCenter or PM Office Hours
  - [YouTube](https://www.youtube.com/@OracleLearning/search?query=webcenter) Learning Centre
- - 
+
 # Blogs
 
 # Official Blogs
