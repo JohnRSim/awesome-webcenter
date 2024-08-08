@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./awesome.png" alt="logo of Awesome WebCenter repository">
+  <img width="400" src="./awesome-webcenter.png" alt="logo of Awesome WebCenter repository">
   <br>
   <br>
 </p>
