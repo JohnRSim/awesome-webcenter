@@ -32,6 +32,7 @@ A curated list of awesome things related to Oracle WebCenter
 - [WCC Patching](https://docs.oracle.com/en/cloud/paas/webcenter/webcenter-marketplace/index.html)
 - [SaaS/Fusion Integration WCC](https://docs.oracle.com/en/cloud/paas/webcenter-content/extend-objects/#configure-webcenter-content-for-fa-integration)
 - [WCC Downloads](https://www.oracle.com/uk/middleware/technologies/webcenter-content-download.html)
+- [Critical Patch Updates](https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=380143690838522&id=2806740.2&_afrWindowMode=0&_adf.ctrl-state=17rskpx345_4)
 
 ### Samples
 Coming soon... 
