@@ -33,7 +33,7 @@ A curated list of awesome things related to Oracle WebCenter
 - [SaaS/Fusion Integration WCC](https://docs.oracle.com/en/cloud/paas/webcenter-content/extend-objects/#configure-webcenter-content-for-fa-integration) 
 
 ### Samples
-
+Coming soon... 
 
 # Video
 
@@ -43,7 +43,15 @@ A curated list of awesome things related to Oracle WebCenter
 
 # Blogs
 
+
 # Official Blogs
+- [PM | Mandar Tengse](https://blogs.oracle.com/authors/mandar-tengse)
+- [SE | Tania Tavkar](https://blogs.oracle.com/authors/tania-tavkar)
+- [PM | Vinay Kumar](https://blogs.oracle.com/authors/vinay-kumar)
+- [FB | Tim Gruidl](https://blogs.oracle.com/authors/tim-gruidl)
+- [PM | Sachin Kaura](https://blogs.oracle.com/authors/sachin-kaura)
+- [TS | Piyush Garg](https://blogs.oracle.com/authors/piyush-garg)
+- [OC | Vinit Kini](https://blogs.oracle.com/authors/vinit-kini)
 
 
 # Developer Blogs
