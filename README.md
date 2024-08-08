@@ -22,6 +22,7 @@ A curated list of awesome things related to Oracle WebCenter
 
 # Get Started
 - [WCC Overview](https://www.oracle.com/uk/content-management/webcenter-content/)
+- [Documentation](https://docs.oracle.com/en/middleware/webcenter/index.html)
 
 # Resources
 
