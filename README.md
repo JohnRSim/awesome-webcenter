@@ -1,11 +1,11 @@
 <p align="center">
   <br>
-  <img width="400" src="./awesome.png" alt="logo of awesome-OCM repository">
+  <img width="400" src="./awesome.png" alt="logo of Awesome WebCenter repository">
   <br>
   <br>
 </p>
 
-# Awesome Oracle Webcenter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Oracle Webcenter (Content, Portal, Sites & Cloud) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome things related to Oracle WebCenter
 
 - [Get Started](#get-started)
