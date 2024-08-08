@@ -32,7 +32,9 @@ A curated list of awesome things related to Oracle WebCenter
 # Video
 
 ### Video Channels
-
+ - [Updates](https://asktom.oracle.com/) Search for WebCenter or PM Office Hours
+ - [YouTube](https://www.youtube.com/playlist?list=PLKCk3OyNwIzs00F4tKn-Q9wfBApaKkEn9)
+ - 
 # Blogs
 
 # Official Blogs
