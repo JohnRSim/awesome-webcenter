@@ -47,7 +47,7 @@ A curated list of awesome things related to Oracle WebCenter
 # Blogs
 
 
-# Official Blogs
+### Official Blogs
 - [PM | Mandar Tengse](https://blogs.oracle.com/authors/mandar-tengse)
 - [SE | Tania Tavkar](https://blogs.oracle.com/authors/tania-tavkar)
 - [PM | Vinay Kumar](https://blogs.oracle.com/authors/vinay-kumar)
@@ -57,10 +57,10 @@ A curated list of awesome things related to Oracle WebCenter
 - [OC | Vinit Kini](https://blogs.oracle.com/authors/vinit-kini)
 
 
-# Developer Blogs
+### Developer Blogs
 - [BitmapBytes - Oracle Cloud Innovation](https://bitmapbytes.com)
 
-# Partner Blogs
+### Partner Blogs
 - [Fishbowl Solutions](https://fishbowlsolutions.com/blog)
 
 
