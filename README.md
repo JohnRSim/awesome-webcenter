@@ -23,6 +23,7 @@ A curated list of awesome things related to Oracle WebCenter
 # Get Started
 - [WCC Overview](https://www.oracle.com/uk/content-management/webcenter-content/)
 - [Documentation](https://docs.oracle.com/en/middleware/webcenter/index.html)
+- [PM Office Hrs Videos](https://videohub.oracle.com/channel/WebCenter%2BPM%2BUpdate/354495382)
 
 # Resources
 
