@@ -28,7 +28,7 @@ A curated list of awesome things related to Oracle WebCenter
 # Resources
 
 ### Official Resources
-- [Release Notes](https://docs.oracle.com/en/cloud/paas/webcenter-content/webcenter-content-marketplace/)
+- [Release Notes WCC Cloud](https://docs.oracle.com/en/cloud/paas/webcenter-content/content-marketplace-new/)
 - [WCC REST API](https://docs.oracle.com/en/cloud/paas/webcenter-content/webcenter-content-api/index.html)
 - [WCC Patching](https://docs.oracle.com/en/cloud/paas/webcenter/webcenter-marketplace/index.html)
 - [SaaS/Fusion Integration WCC](https://docs.oracle.com/en/cloud/paas/webcenter-content/extend-objects/#configure-webcenter-content-for-fa-integration)
